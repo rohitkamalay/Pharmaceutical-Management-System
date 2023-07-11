@@ -1,4 +1,6 @@
-How to run the Pharmacy Management System (PMS) Project
+# Pharmaceutical-Management-System
+
+# How to run the Pharmacy Management System (PMS) Project
 
 1. Download the zip file
 
@@ -14,12 +16,12 @@ How to run the Pharmacy Management System (PMS) Project
 
 7.Run the script http://localhost/pms (frontend)
 
-Credential for admin panel :
+# Credential for admin panel :
 
 Username: admin
 Password: Test@123
 
-Credential for pharmacist panel :
+# Credential for pharmacist panel :
 
 Username: test30
 Password: Test@123

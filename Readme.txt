@@ -1,4 +1,4 @@
-# Pharmaceutical-Management-System
+# Pharmaceutical Management System
 
 # How to run the Pharmacy Management System (PMS) Project
 

@@ -1,8 +1,8 @@
 # Pharmaceutical Management System
 
-## 1. Architected and deployed a full-stack web application to streamline pharmacy operations, enabling pharmacists to manage purchases and administrators to oversee staff.
-## 2. Achieved a 25% reduction in order processing time, enhancing operational efficiency.
-## 3. Designed and developed a dynamic, user-centric interface that improved system accessibility and significantly enhanced workflow efficiency for both pharmacists and administrators.
+#### 1. Architected and deployed a full-stack web application to streamline pharmacy operations, enabling pharmacists to manage purchases and administrators to oversee staff.
+#### 2. Achieved a 25% reduction in order processing time, enhancing operational efficiency.
+#### 3. Designed and developed a dynamic, user-centric interface that improved system accessibility and significantly enhanced workflow efficiency for both pharmacists and administrators.
 
 # How to run the Pharmacy Management System (PMS) Project
 
